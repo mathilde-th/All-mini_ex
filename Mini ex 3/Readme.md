@@ -10,4 +10,4 @@ First I made Pacman with opned mouth and the dots. Afterwards I creadted Pacman 
 I used a variable funktion to make the draw funktion chance between the to drawings of Pacman. (an if-funktion)
 
 
- 
+ https://cdn.rawgit.com/mathilde-th/All-mini_ex/3fbeee74/Mini%20ex%203/index.html
