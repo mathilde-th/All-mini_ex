@@ -1,4 +1,4 @@
-
+![screenshot] (https://raw.githubusercontent.com/mathilde-th/All-mini_ex/master/Mini%20ex%202/Screenshot.jpg)
 
 I wanted to create a different throbber than you normally see on webpages. 
 For me, a throbber is a circular animation moving around a center of a circle. 
