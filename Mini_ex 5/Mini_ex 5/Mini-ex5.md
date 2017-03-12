@@ -5,3 +5,14 @@ News gets new
 
 My text is from bt.dk, were I used the titles for the news. In this way, different sentences was created and the news gets a new meaning.
 
+The RiTa liberary is not a part of my program, because I couldn't make it work.
+
+The materiality of text/interface is https://. The meaning of the offelmcip.net/sites the found text
+/default$$
+/files
+/attachments
+/criticalwriting/
+
+bouchardon-bergen-materiality
+
+                    .pdf 
