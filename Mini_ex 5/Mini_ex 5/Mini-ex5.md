@@ -7,6 +7,8 @@ My text is from bt.dk, were I used the titles for the news. In this way, differe
 
 The RiTa liberary is not a part of my program, because I couldn't make it work.
 
+
+
 The materiality of text/interface is https://. The meaning of the 
 /offelmcip.net/sites
                   the found text
