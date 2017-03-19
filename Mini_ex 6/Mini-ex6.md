@@ -2,7 +2,7 @@
  
 The screenshot is how it is supposed to look.
 
-
+https://github.com/mathilde-th/All-mini_ex/blob/master/Mini_ex%206/Sk%C3%A6rmbillede%202017-03-19%20kl.%2023.06.20.png
 
 
   I created Daniel Schiffermans challange no. 15.
