@@ -1,5 +1,5 @@
 
-Get Checked
+Title: Get Checked
 
 My program was suposed to translate your movement recored by the webcam into checkboxes. In that way it was your movements
 that created an interactive on/off checkbox that showed you translated from webcam, into pixels and then checkboxes. 
